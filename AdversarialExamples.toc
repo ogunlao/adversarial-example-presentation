@@ -1,0 +1,9 @@
+\babel@toc {english}{}
+\beamer@sectionintoc {1}{Objectives}{2}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{4}{0}{2}
+\beamer@sectionintoc {3}{Properties of Counterfactual Instance}{5}{0}{3}
+\beamer@sectionintoc {4}{Examples}{6}{0}{4}
+\beamer@subsectionintoc {4}{1}{Techniques}{7}{0}{4}
+\beamer@subsectionintoc {4}{2}{Gradient based optimization approach}{8}{0}{4}
+\beamer@subsectionintoc {4}{3}{Fast gradient sign method}{9}{0}{4}
+\beamer@subsectionintoc {4}{4}{1-pixel attack}{10}{0}{4}
