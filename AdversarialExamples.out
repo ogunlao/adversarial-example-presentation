@@ -2,7 +2,13 @@
 \BOOKMARK [2][]{Outline0.2}{Introduction}{}% 2
 \BOOKMARK [2][]{Outline0.3}{Properties of Counterfactual Instance}{}% 3
 \BOOKMARK [2][]{Outline0.4}{Examples}{}% 4
-\BOOKMARK [3][]{Outline0.4.1.7}{Techniques}{Outline0.4}% 5
-\BOOKMARK [3][]{Outline0.4.2.8}{Gradient based optimization approach}{Outline0.4}% 6
-\BOOKMARK [3][]{Outline0.4.3.9}{Fast gradient sign method}{Outline0.4}% 7
-\BOOKMARK [3][]{Outline0.4.4.10}{1-pixel attack}{Outline0.4}% 8
+\BOOKMARK [3][]{Outline0.4.1.13}{Techniques}{Outline0.4}% 5
+\BOOKMARK [3][]{Outline0.4.2.17}{Gradient based optimization approach}{Outline0.4}% 6
+\BOOKMARK [3][]{Outline0.4.3.18}{Fast gradient sign method}{Outline0.4}% 7
+\BOOKMARK [3][]{Outline0.4.4.19}{1-pixel attack}{Outline0.4}% 8
+\BOOKMARK [3][]{Outline0.4.5.20}{Adversarial Patch}{Outline0.4}% 9
+\BOOKMARK [3][]{Outline0.4.6.21}{Robust adversarial examples}{Outline0.4}% 10
+\BOOKMARK [3][]{Outline0.4.7.22}{Black Box Attacks}{Outline0.4}% 11
+\BOOKMARK [2][]{Outline0.5}{Coding Session}{}% 12
+\BOOKMARK [2][]{Outline0.6}{Combating adversarial examples}{}% 13
+\BOOKMARK [2][]{Outline0.7}{Conclusion}{}% 14
