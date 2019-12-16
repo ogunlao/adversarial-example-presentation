@@ -8,6 +8,7 @@
 	\usebeamerfont{page number in head/foot}%
 	\insertframenumber\,/\,\inserttotalframenumber\kern1em\vskip2pt%
 }
+
 \setbeamertemplate{footline}[higher page number]
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -39,7 +40,7 @@
 		\centering
 		\includegraphics[width=0.85\linewidth,height=0.7\textheight]{img/adversarial-people}
 		\label{fig:adversarial-people}
-		\caption{Humans can hide from surveillance cameras with 2D prints\protect\footnotemark}
+		\caption{Humans can hide from surveillance cameras  \protect\footnotemark}
 	\end{figure}
 
 	\footnotetext{{\tiny https://www.zdnet.com/article/academics-hide-humans-from-surveillance-cameras-with-2d-prints/”}}
@@ -49,7 +50,7 @@
 \begin{frame}
 \frametitle{Objectives}
 \begin{enumerate}
-	\item To show the effect and effectiveness of adversarial examples in decieving machine learning models
+	\item To show the effect and effectiveness of adversarial examples in deceiving machine learning models and humans.
 	\item To understand its use and varying applications, and determine how to combat it.
 	\item To enlighten the audience on machine learning security.
 \end{enumerate}
@@ -98,10 +99,40 @@ A counterfactual should;
 \frametitle{Examples}
 \begin{enumerate}
 	\item You submit your details for an offer in such a way that the machine classify you as eligible. \pause
-	\item A spam detector by-passed \pause
+	\item A spam detector can be by-passed \pause
 	\item Object counterfeit - knife as umbrella \pause
 	\item Self-driving cars can be deceived by images to misclassify stop-signs.
 \end{enumerate}
+\end{frame}
+
+\section{Intuition}
+\begin{frame}
+\frametitle{Intuition}
+	\begin{figure}
+		\centering
+		\includegraphics[width=0.9\linewidth, height=0.7\textheight]{img/intuition1}
+		\caption{2D dataset with 2 classes\protect\footnotemark \pause}
+		\label{fig:intuition1}
+	\end{figure}
+\footnotetext{{\tiny https://towardsdatascience.com/perhaps-the-simplest-introduction-of-adversarial-examples-ever-c0839a759b8d”}}
+\end{frame}
+
+\begin{frame}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.9\linewidth, height=0.7\textheight]{img/intuition2}
+	\caption{2D dataset fit with logistic regression}
+	\label{fig:intuition2}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\begin{figure}
+	\centering
+	\includegraphics[width=0.9\linewidth, height=0.7\textheight]{img/intuition3}
+	\caption{A misclassified example generated  by moving across the boundary}
+	\label{fig:intuition3}
+\end{figure}
 \end{frame}
 
 \subsection{Techniques}
@@ -122,7 +153,7 @@ Black Box Attacks
 \begin{itemize}
 	\item[o] No internal model information required and no access to the training data. \pause
 	\item[o] Zero access to model gradient \pause
-	\item[o] A surrogate model is trained to approximate the decision boundaries of the black box model, \pause
+	\item[o] A surrogate model may be trained to approximate the decision boundaries of the black box model, \pause
 	\item[o] Can be used to attack machine learning models on cloud platforms with open api access\protect\footnotemark \pause
 	\item[o] Although, Knowledge of domain of input is required \pause
 \end{itemize}
@@ -235,12 +266,6 @@ Adversarial example used to fool Google's Perspective Toxic comment detection sy
 
 \end{frame}
 
-\section{More Interesting Ideas}
-\begin{frame}
-\frametitle{}
-
-\end{frame}
-
 \section{Combating adversarial examples}
 \begin{frame}
 \frametitle{Combating adversarial examples}
@@ -253,6 +278,7 @@ Methods used to combat adversarial examples include\protect\footnotemark;
 	\item[2] Learning invariant transformations of the features or robust optimization (regularization) \pause
 	\item[3] Use of multiple classifiers instead of just one and have them vote the prediction (ensemble) \pause
 	\item[4] Use of noise reduction methods such as scalar quantization andspatial smoothing filter \protect\footnotemark 
+	\item[5] Making the model generalize better e.g GANDef
 \end{itemize}
 {\small Lot's of research ongoing in this field of Adversarial and ML security.}
 

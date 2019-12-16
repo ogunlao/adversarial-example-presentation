@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.10)  15 DEC 2019 19:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.10.10)  16 DEC 2019 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -714,21 +714,21 @@ LaTeX Info: Redefining \textlatin on input line 2003.
 (./AdversarialExamples.aux)
 \openout1 = `AdversarialExamples.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
-LaTeX Font Info:    ... okay on input line 21.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 21.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 22.
  (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
@@ -798,7 +798,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box55
-Package hyperref Info: Link coloring OFF on input line 21.
+Package hyperref Info: Link coloring OFF on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -808,60 +808,60 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count164
 )
-LaTeX Info: Redefining \ref on input line 21.
-LaTeX Info: Redefining \pageref on input line 21.
-LaTeX Info: Redefining \nameref on input line 21.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
 
 (./AdversarialExamples.out) (./AdversarialExamples.out)
 \@outlinefile=\write5
 \openout5 = `AdversarialExamples.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 21.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 21.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 21.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 21.
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 22.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 21.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 22.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 21.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 21.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/bx/n on input line 22.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 21.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 21.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 22.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 21.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 21.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 21.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 22.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 21.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 21.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 21.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 21.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 21.
+(Font)                  OT1/lmss/bx/n --> T1/lmr/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 21.
+(Font)                  T1/lmss/bx/n --> T1/lmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 21.
+(Font)                  T1/lmss/m/n --> T1/lmss/bx/n on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 21.
+(Font)                  T1/lmss/m/it --> T1/lmss/bx/it on input line 22.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 21.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/bx/n on input line 22.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -889,7 +889,7 @@ Dictionary: translator-theorem-dictionary, Language: English
 ) (./AdversarialExamples.nav)
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 24.
+(hyperref)                setting the option has no effect on input line 25.
 
 [1
 
@@ -897,66 +897,70 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 <img/adversarial-people.png, id=108, 680.5425pt x 497.86pt>
 File: img/adversarial-people.png Graphic file (type png)
 <use img/adversarial-people.png>
-Package pdftex.def Info: img/adversarial-people.png  used on input line 46.
+Package pdftex.def Info: img/adversarial-people.png  used on input line 47.
 (pdftex.def)             Requested size: 261.1945pt x 182.79991pt.
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 46.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 47.
 
 
 (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 46.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 47.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 46.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 47.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 46.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 47.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 46.
+(Font)              <10.95> on input line 47.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 46.
+(Font)              <8> on input line 47.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 46.
-LaTeX Font Info:    Try loading font information for U+msa on input line 46.
+(Font)              <6> on input line 47.
+LaTeX Font Info:    Try loading font information for U+msa on input line 47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 46.
+LaTeX Font Info:    Try loading font information for U+msb on input line 47.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 47.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 46.
+(Font)              <10> on input line 47.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 46.
+(Font)              <7> on input line 47.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 46.
+(Font)              <5> on input line 47.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <7> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 47.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 46.
- [2
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 47.
+
+Overfull \vbox (2.5434pt too high) detected at line 47
+ []
+
+[2
 
  <./img/adversarial-people.png>] [3
 
@@ -964,18 +968,17 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 81.
+(Font)              <12> on input line 82.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 81.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 82.
 <img/graph.jpg, id=158, 780.9175pt x 354.32375pt>
 File: img/graph.jpg Graphic file (type jpg)
 <use img/graph.jpg>
-Package pdftex.def Info: img/graph.jpg  used on input line 81.
+Package pdftex.def Info: img/graph.jpg  used on input line 82.
 (pdftex.def)             Requested size: 198.64873pt x 78.34073pt.
  [5
 
- <./img/graph.jpg>]
-[6
+ <./img/graph.jpg>] [6
 
 ] [7
 
@@ -991,15 +994,46 @@ Package pdftex.def Info: img/graph.jpg  used on input line 81.
 
 ] [13
 
-] [14
+]
+<img/intuition1.png, id=206, 563.10374pt x 418.56375pt>
+File: img/intuition1.png Graphic file (type png)
+<use img/intuition1.png>
+Package pdftex.def Info: img/intuition1.png  used on input line 118.
+(pdftex.def)             Requested size: 276.55908pt x 182.80183pt.
 
-] [15
+Overfull \vbox (7.8798pt too high) detected at line 118
+ []
 
-] [16
+[14
 
-] [17
+ <./img/intuition1.png (PNG copy)>]
+File: img/intuition1.png Graphic file (type png)
+<use img/intuition1.png>
+Package pdftex.def Info: img/intuition1.png  used on input line 118.
+(pdftex.def)             Requested size: 276.55908pt x 182.80183pt.
 
-] [18
+Overfull \vbox (7.8798pt too high) detected at line 118
+ []
+
+[15
+
+]
+<img/intuition2.png, id=217, 548.0475pt x 416.55624pt>
+File: img/intuition2.png Graphic file (type png)
+<use img/intuition2.png>
+Package pdftex.def Info: img/intuition2.png  used on input line 127.
+(pdftex.def)             Requested size: 276.56528pt x 182.80225pt.
+ [16
+
+ <./img/intuition2.png (PNG copy)>]
+<img/intuition3.png, id=224, 551.05875pt x 419.5675pt>
+File: img/intuition3.png Graphic file (type png)
+<use img/intuition3.png>
+Package pdftex.def Info: img/intuition3.png  used on input line 136.
+(pdftex.def)             Requested size: 276.57133pt x 182.79848pt.
+ [17
+
+ <./img/intuition3.png (PNG copy)>] [18
 
 ] [19
 
@@ -1007,119 +1041,124 @@ Package pdftex.def Info: img/graph.jpg  used on input line 81.
 
 ] [21
 
-]
-[22
+] [22
 
 ] [23
 
+] [24
+
+] [25
+
+] [26
+
+] [27
+
 ]
-<img/adv_ex.png, id=255, 716.6775pt x 584.1825pt>
+<img/adv_ex.png, id=281, 716.6775pt x 584.1825pt>
 File: img/adv_ex.png Graphic file (type png)
 <use img/adv_ex.png>
-Package pdftex.def Info: img/adv_ex.png  used on input line 147.
+Package pdftex.def Info: img/adv_ex.png  used on input line 178.
 (pdftex.def)             Requested size: 153.64523pt x 114.9001pt.
 
-Overfull \vbox (6.10721pt too high) detected at line 147
- []
-
-[24
-
- <./img/adv_ex.png>]
-<img/adversarial-panda.jpg, id=268, 698.61pt x 269.005pt>
-File: img/adversarial-panda.jpg Graphic file (type jpg)
-<use img/adversarial-panda.jpg>
-Package pdftex.def Info: img/adversarial-panda.jpg  used on input line 161.
-(pdftex.def)             Requested size: 285.7817pt x 112.29173pt.
-
-Overfull \vbox (3.70302pt too high) detected at line 161
- []
-
-[25
-
- <./img/adversarial-panda.jpg>]
-<img/adversarial-one-attack.png, id=275, 551.05875pt x 678.535pt>
-File: img/adversarial-one-attack.png Graphic file (type png)
-<use img/adversarial-one-attack.png>
-Package pdftex.def Info: img/adversarial-one-attack.png  used on input line 177
-.
-(pdftex.def)             Requested size: 122.90657pt x 130.5692pt.
- [26
-
- <./img/adversarial-one-attack.png>]
-<img/adversarial-toaster.jpg, id=282, 891.33pt x 430.60875pt>
-File: img/adversarial-toaster.jpg Graphic file (type jpg)
-<use img/adversarial-toaster.jpg>
-Package pdftex.def Info: img/adversarial-toaster.jpg  used on input line 192.
-(pdftex.def)             Requested size: 307.29158pt x 135.80016pt.
-
-Overfull \vbox (5.07814pt too high) detected at line 192
- []
-
-[27
-
- <./img/adversarial-toaster.jpg>]
-<img/adversarial-turtle.jpg, id=288, 649.42625pt x 358.33875pt>
-File: img/adversarial-turtle.jpg Graphic file (type jpg)
-<use img/adversarial-turtle.jpg>
-Package pdftex.def Info: img/adversarial-turtle.jpg  used on input line 210.
-(pdftex.def)             Requested size: 261.20276pt x 130.57657pt.
-
-Overfull \vbox (3.85455pt too high) detected at line 210
+Overfull \vbox (6.10721pt too high) detected at line 178
  []
 
 [28
 
- <./img/adversarial-turtle.jpg>]
-<img/adversarial_comments.png, id=295, 1126.2075pt x 381.425pt>
-File: img/adversarial_comments.png Graphic file (type png)
-<use img/adversarial_comments.png>
-Package pdftex.def Info: img/adversarial_comments.png  used on input line 226.
-(pdftex.def)             Requested size: 322.65656pt x 104.45277pt.
+ <./img/adv_ex.png>]
+<img/adversarial-panda.jpg, id=294, 698.61pt x 269.005pt>
+File: img/adversarial-panda.jpg Graphic file (type jpg)
+<use img/adversarial-panda.jpg>
+Package pdftex.def Info: img/adversarial-panda.jpg  used on input line 192.
+(pdftex.def)             Requested size: 285.7817pt x 112.29173pt.
 
-Overfull \hbox (15.36668pt too wide) in paragraph at lines 226--226
- [] 
- []
-
-
-Overfull \vbox (0.23079pt too high) detected at line 226
+Overfull \vbox (3.70302pt too high) detected at line 192
  []
 
 [29
 
- <./img/adversarial_comments.png>]
-<img/let_me_code.jpg, id=302, 752.8125pt x 1003.75pt>
-File: img/let_me_code.jpg Graphic file (type jpg)
-<use img/let_me_code.jpg>
-Package pdftex.def Info: img/let_me_code.jpg  used on input line 236.
-(pdftex.def)             Requested size: 215.10196pt x 286.80688pt.
+ <./img/adversarial-panda.jpg>]
+<img/adversarial-one-attack.png, id=301, 551.05875pt x 678.535pt>
+File: img/adversarial-one-attack.png Graphic file (type png)
+<use img/adversarial-one-attack.png>
+Package pdftex.def Info: img/adversarial-one-attack.png  used on input line 208
+.
+(pdftex.def)             Requested size: 122.90657pt x 130.5692pt.
+ [30
 
-Overfull \vbox (34.66026pt too high) detected at line 236
+ <./img/adversarial-one-attack.png>]
+<img/adversarial-toaster.jpg, id=308, 891.33pt x 430.60875pt>
+File: img/adversarial-toaster.jpg Graphic file (type jpg)
+<use img/adversarial-toaster.jpg>
+Package pdftex.def Info: img/adversarial-toaster.jpg  used on input line 223.
+(pdftex.def)             Requested size: 307.29158pt x 135.80016pt.
+
+Overfull \vbox (5.07814pt too high) detected at line 223
  []
 
-[30
+[31
 
- <./img/let_me_code.jpg>] [31
+ <./img/adversarial-toaster.jpg>]
+<img/adversarial-turtle.jpg, id=315, 649.42625pt x 358.33875pt>
+File: img/adversarial-turtle.jpg Graphic file (type jpg)
+<use img/adversarial-turtle.jpg>
+Package pdftex.def Info: img/adversarial-turtle.jpg  used on input line 241.
+(pdftex.def)             Requested size: 261.20276pt x 130.57657pt.
 
-] [32
+Overfull \vbox (3.85455pt too high) detected at line 241
+ []
 
-] [33
+[32
 
-] [34
+ <./img/adversarial-turtle.jpg>]
+<img/adversarial_comments.png, id=321, 1126.2075pt x 381.425pt>
+File: img/adversarial_comments.png Graphic file (type png)
+<use img/adversarial_comments.png>
+Package pdftex.def Info: img/adversarial_comments.png  used on input line 257.
+(pdftex.def)             Requested size: 322.65656pt x 104.45277pt.
 
-] [35
+Overfull \hbox (15.36668pt too wide) in paragraph at lines 257--257
+ [] 
+ []
+
+
+Overfull \vbox (0.23079pt too high) detected at line 257
+ []
+
+[33
+
+ <./img/adversarial_comments.png>]
+<img/let_me_code.jpg, id=328, 752.8125pt x 1003.75pt>
+File: img/let_me_code.jpg Graphic file (type jpg)
+<use img/let_me_code.jpg>
+Package pdftex.def Info: img/let_me_code.jpg  used on input line 267.
+(pdftex.def)             Requested size: 215.10196pt x 286.80688pt.
+
+Overfull \vbox (34.66026pt too high) detected at line 267
+ []
+
+[34
+
+ <./img/let_me_code.jpg>] [35
 
 ] [36
 
+] [37
+
+] [38
+
+] [39
+
 ]
-<img/emoticon-and-smiley-black-white-emoji-clipart-cool.png, id=335, 923.45pt x
+<img/emoticon-and-smiley-black-white-emoji-clipart-cool.png, id=357, 923.45pt x
  963.6pt>
 File: img/emoticon-and-smiley-black-white-emoji-clipart-cool.png Graphic file (
 type png)
 <use img/emoticon-and-smiley-black-white-emoji-clipart-cool.png>
 Package pdftex.def Info: img/emoticon-and-smiley-black-white-emoji-clipart-cool
-.png  used on input line 286.
+.png  used on input line 312.
 (pdftex.def)             Requested size: 92.1879pt x 96.1892pt.
- [37
+ [40
 
  <./img/emoticon-and-smiley-black-white-emoji-clipart-cool.png>]
 \tf@nav=\write6
@@ -1131,19 +1170,19 @@ Package pdftex.def Info: img/emoticon-and-smiley-black-white-emoji-clipart-cool
 \tf@snm=\write8
 \openout8 = `AdversarialExamples.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 288.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 288.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 314.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 314.
  (./AdversarialExamples.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 288.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 288.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 314.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 314.
 Package rerunfilecheck Info: File `AdversarialExamples.out' has not changed.
-(rerunfilecheck)             Checksum: 49C80E2D975E4ACC0505F08A171708F8;1024.
+(rerunfilecheck)             Checksum: A87E4B977F8D5A1E0247EAD759325887;1011.
  ) 
 Here is how much of TeX's memory you used:
- 18121 strings out of 492615
- 338595 string characters out of 6131389
- 423357 words of memory out of 5000000
- 21487 multiletter control sequences out of 15000+600000
+ 18152 strings out of 492615
+ 339089 string characters out of 6131389
+ 424458 words of memory out of 5000000
+ 21506 multiletter control sequences out of 15000+600000
  79167 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  56i,9n,55p,786b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1157,10 +1196,10 @@ s/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts/type1/public/lm/lmsso10.
 pfb></usr/share/texmf/fonts/type1/public/lm/lmsso12.pfb></usr/share/texmf/fonts
 /type1/public/lm/lmsso8.pfb></usr/share/texmf/fonts/type1/public/lm/lmsy10.pfb>
 
-Output written on AdversarialExamples.pdf (37 pages, 2940811 bytes).
+Output written on AdversarialExamples.pdf (40 pages, 3145568 bytes).
 PDF statistics:
- 405 PDF objects out of 1000 (max. 8388607)
- 332 compressed objects within 4 object streams
- 99 named destinations out of 1000 (max. 500000)
- 221 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 427 PDF objects out of 1000 (max. 8388607)
+ 348 compressed objects within 4 object streams
+ 108 named destinations out of 1000 (max. 500000)
+ 236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
