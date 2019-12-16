@@ -1,15 +1,17 @@
 \babel@toc {english}{}
-\beamer@sectionintoc {1}{Objectives}{2}{0}{1}
-\beamer@sectionintoc {2}{Introduction}{4}{0}{2}
-\beamer@sectionintoc {3}{Properties of Counterfactual Instance}{5}{0}{3}
-\beamer@sectionintoc {4}{Examples}{9}{0}{4}
-\beamer@subsectionintoc {4}{1}{Techniques}{13}{0}{4}
-\beamer@subsectionintoc {4}{2}{Gradient based optimization approach}{17}{0}{4}
-\beamer@subsectionintoc {4}{3}{Fast gradient sign method}{18}{0}{4}
-\beamer@subsectionintoc {4}{4}{1-pixel attack}{19}{0}{4}
-\beamer@subsectionintoc {4}{5}{Adversarial Patch}{20}{0}{4}
-\beamer@subsectionintoc {4}{6}{Robust adversarial examples}{21}{0}{4}
-\beamer@subsectionintoc {4}{7}{Black Box Attacks}{22}{0}{4}
-\beamer@sectionintoc {5}{Coding Session}{28}{0}{5}
-\beamer@sectionintoc {6}{Combating adversarial examples}{29}{0}{6}
-\beamer@sectionintoc {7}{Conclusion}{33}{0}{7}
+\beamer@sectionintoc {1}{Objectives}{3}{0}{1}
+\beamer@sectionintoc {2}{Introduction}{5}{0}{2}
+\beamer@sectionintoc {3}{Properties of Counterfactual Instance}{6}{0}{3}
+\beamer@sectionintoc {4}{Examples}{10}{0}{4}
+\beamer@subsectionintoc {4}{1}{Techniques}{14}{0}{4}
+\beamer@subsectionintoc {4}{2}{Black Box Attacks vs White Box Attacks}{18}{0}{4}
+\beamer@subsectionintoc {4}{3}{Gradient based optimization approach}{24}{0}{4}
+\beamer@subsectionintoc {4}{4}{Fast gradient sign method}{25}{0}{4}
+\beamer@subsectionintoc {4}{5}{1-pixel attack}{26}{0}{4}
+\beamer@subsectionintoc {4}{6}{Adversarial Patch}{27}{0}{4}
+\beamer@subsectionintoc {4}{7}{Robust adversarial examples}{28}{0}{4}
+\beamer@subsectionintoc {4}{8}{Adversarial Examples in NLP}{29}{0}{4}
+\beamer@sectionintoc {5}{Coding Session}{30}{0}{5}
+\beamer@sectionintoc {6}{More Interesting Ideas}{31}{0}{6}
+\beamer@sectionintoc {7}{Combating adversarial examples}{32}{0}{7}
+\beamer@sectionintoc {8}{Conclusion}{36}{0}{8}

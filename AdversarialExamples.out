@@ -2,13 +2,15 @@
 \BOOKMARK [2][]{Outline0.2}{Introduction}{}% 2
 \BOOKMARK [2][]{Outline0.3}{Properties of Counterfactual Instance}{}% 3
 \BOOKMARK [2][]{Outline0.4}{Examples}{}% 4
-\BOOKMARK [3][]{Outline0.4.1.13}{Techniques}{Outline0.4}% 5
-\BOOKMARK [3][]{Outline0.4.2.17}{Gradient based optimization approach}{Outline0.4}% 6
-\BOOKMARK [3][]{Outline0.4.3.18}{Fast gradient sign method}{Outline0.4}% 7
-\BOOKMARK [3][]{Outline0.4.4.19}{1-pixel attack}{Outline0.4}% 8
-\BOOKMARK [3][]{Outline0.4.5.20}{Adversarial Patch}{Outline0.4}% 9
-\BOOKMARK [3][]{Outline0.4.6.21}{Robust adversarial examples}{Outline0.4}% 10
-\BOOKMARK [3][]{Outline0.4.7.22}{Black Box Attacks}{Outline0.4}% 11
-\BOOKMARK [2][]{Outline0.5}{Coding Session}{}% 12
-\BOOKMARK [2][]{Outline0.6}{Combating adversarial examples}{}% 13
-\BOOKMARK [2][]{Outline0.7}{Conclusion}{}% 14
+\BOOKMARK [3][]{Outline0.4.1.14}{Techniques}{Outline0.4}% 5
+\BOOKMARK [3][]{Outline0.4.2.18}{Black Box Attacks vs White Box Attacks}{Outline0.4}% 6
+\BOOKMARK [3][]{Outline0.4.3.24}{Gradient based optimization approach}{Outline0.4}% 7
+\BOOKMARK [3][]{Outline0.4.4.25}{Fast gradient sign method}{Outline0.4}% 8
+\BOOKMARK [3][]{Outline0.4.5.26}{1-pixel attack}{Outline0.4}% 9
+\BOOKMARK [3][]{Outline0.4.6.27}{Adversarial Patch}{Outline0.4}% 10
+\BOOKMARK [3][]{Outline0.4.7.28}{Robust adversarial examples}{Outline0.4}% 11
+\BOOKMARK [3][]{Outline0.4.8.29}{Adversarial Examples in NLP}{Outline0.4}% 12
+\BOOKMARK [2][]{Outline0.5}{Coding Session}{}% 13
+\BOOKMARK [2][]{Outline0.6}{More Interesting Ideas}{}% 14
+\BOOKMARK [2][]{Outline0.7}{Combating adversarial examples}{}% 15
+\BOOKMARK [2][]{Outline0.8}{Conclusion}{}% 16

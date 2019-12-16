@@ -1,4 +1,14 @@
 \documentclass[12pt]{beamer}
+
+%% CHANGE BEAMER FOTER DISTANCE FOR NUMBERING
+\defbeamertemplate{footline}{higher page number}
+{%
+	\hfill%
+	\usebeamercolor[fg]{page number in head/foot}%
+	\usebeamerfont{page number in head/foot}%
+	\insertframenumber\,/\,\inserttotalframenumber\kern1em\vskip2pt%
+}
+\setbeamertemplate{footline}[higher page number]
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
@@ -9,11 +19,10 @@
 \usepackage{graphicx}
 \usetheme{default}
 \begin{document}
+	\pagestyle{plain}
 	\addtocounter{framenumber}{-1}
-	
 	\author{Sewade Ogun}
 	\title{Adversarial Examples}
-	\subtitle{A new evil has announced its arrival...}
 	%\logo{}
 	\institute{{\normalsize AMMI, AIMS Ghana}}
 	\date{\today}
@@ -22,19 +31,26 @@
 	%\setbeamertemplate{navigation symbols}{}
 	\begin{frame}[plain]
 	\maketitle
+\end{frame}
+
+\begin{frame}
+	\Large{Are you sure of your model's predictions?}
 	\begin{figure}
 		\centering
-		\includegraphics[width=0.85\linewidth,height=0.4\textheight]{img/dog}
-		\label{fig:dog}
+		\includegraphics[width=0.85\linewidth,height=0.7\textheight]{img/adversarial-people}
+		\label{fig:adversarial-people}
+		\caption{Humans can hide from surveillance cameras with 2D prints\protect\footnotemark}
 	\end{figure}
+
+	\footnotetext{{\tiny https://www.zdnet.com/article/academics-hide-humans-from-surveillance-cameras-with-2d-prints/”}}
 \end{frame}
 
 \section{Objectives}
 \begin{frame}
 \frametitle{Objectives}
 \begin{enumerate}
-	\item To show the effect and effectiveness of adversarial examples in machine learning predictions
-	\item To understand the adversary, and determine how to combat it.
+	\item To show the effect and effectiveness of adversarial examples in decieving machine learning models
+	\item To understand its use and varying applications, and determine how to combat it.
 	\item To enlighten the audience on machine learning security.
 \end{enumerate}
 
@@ -50,7 +66,6 @@
 \frametitle{Introduction}
 	\begin{itemize}
 		\item[o] An \textbf{adversarial example} is an instance with small, intentional feature perturbations that cause a machine learning model to make a false prediction.\protect\footnotemark
-		\footnotetext{https://christophm.github.io/interpretable-ml-book/adversarial.html}
 		
 		\item[o] A type of \textbf{counterfactual example}
 		
@@ -62,7 +77,7 @@
 		\end{figure}
 		
 	\end{itemize}
-	
+	\footnotetext{{\tiny https://christophm.github.io/interpretable-ml-book/adversarial.html}}
 \end{frame}
 
 \section{Properties of Counterfactual Instance}
@@ -100,6 +115,21 @@ A counterfactual should;
 Our focus will be on how adversarial examples affect image classifiers with deep neural networks.
 \end{frame}
 
+\subsection{Black Box Attacks vs White Box Attacks}
+\begin{frame}
+\frametitle{Black Box Attacks vs White Box Attacks}
+Black Box Attacks
+\begin{itemize}
+	\item[o] No internal model information required and no access to the training data. \pause
+	\item[o] Zero access to model gradient \pause
+	\item[o] A surrogate model is trained to approximate the decision boundaries of the black box model, \pause
+	\item[o] Can be used to attack machine learning models on cloud platforms with open api access\protect\footnotemark \pause
+	\item[o] Although, Knowledge of domain of input is required \pause
+\end{itemize}
+
+\footnotetext{{\tiny Papernot, Nicolas, et al. “Practical black-box attacks against machine learning.”(2017)}}
+\end{frame}
+
 \subsection{Gradient based optimization approach}
 \begin{frame}
 \frametitle{Gradient based optimization approach}
@@ -134,9 +164,10 @@ where $x$ is the gradient of the models loss function with respect to the origin
 \begin{frame}
 \frametitle{Changing a single pixel}
 Uses \textbf{differential evolution} to find out which pixel is to be changed and how.
+
 \begin{figure}
 	\centering
-	\includegraphics[width=0.8\linewidth,height=0.6\textheight]{img/adversarial-1pixel}
+	\includegraphics[width=0.4\linewidth,height=0.5\textheight]{img/adversarial-one-attack}
 	\caption{Changing a single pixel (marked with circles) to deceive a NN to predict the wrong class instead of the original class.\protect\footnotemark}
 	\label{fig:adversarial-1pixel}
 \end{figure}
@@ -178,19 +209,22 @@ Replaces a part of the image with a patch that can take on any shape.
 \footnotetext{{\tiny Athalye, Anish, and Ilya Sutskever. “Synthesizing robust adversarial examples.” (2017)}}
 \end{frame}
 
-\subsection{Black Box Attacks}
+\subsection{Adversarial Examples in NLP}
 \begin{frame}
-\frametitle{Black Box Attacks}
-\begin{itemize}
-	\item[o] No internal model information required and no access to the training data. \pause
-	\item[o] Zero access to model gradient \pause
-	\item[o] A surrogate model is trained to approximate the decision boundaries of the black box model, \pause
-	\item[o] Can be used to attack machine learning models on cloud platforms with open api access\protect\footnotemark \pause
-	\item[o] Although, Knowledge of domain of input is required \pause
-\end{itemize}
+\frametitle{Adversarial Examples in NLP}
+Adversarial example used to fool Google's Perspective Toxic comment detection system.\protect\footnotemark. All phrases are examples provided by the Perspective website\protect\footnotemark.
 
-\footnotetext{{\tiny Papernot, Nicolas, et al. “Practical black-box attacks against machine learning.”(2017)}}
+\begin{figure}
+	\centering
+	\includegraphics[width=1.05\linewidth, height=0.4\textheight]{img/adversarial_comments}
+	\caption{ Attack examples generated for the Perspective Toxic Detection System}
+	\label{fig:adversarialcomments}
+\end{figure}
+
+\footnotetext[11]{{\tiny Hossein Hosseini et al. “Deceiving Google’s Perspective API Built for Detecting Toxic Comments.” (2017)}}
+\footnotetext{{\tiny https://www.perspectiveapi.com}}
 \end{frame}
+
 
 \section{Coding Session}
 \begin{frame}
@@ -198,6 +232,12 @@ Replaces a part of the image with a patch that can take on any shape.
 \begin{center}
 	\includegraphics[width=0.7\linewidth]{img/let_me_code}
 \end{center}
+
+\end{frame}
+
+\section{More Interesting Ideas}
+\begin{frame}
+\frametitle{}
 
 \end{frame}
 
@@ -212,10 +252,12 @@ Methods used to combat adversarial examples include\protect\footnotemark;
 	\item[1] Adversarial training - iterative retraining of the classifier with adversarial examples \pause
 	\item[2] Learning invariant transformations of the features or robust optimization (regularization) \pause
 	\item[3] Use of multiple classifiers instead of just one and have them vote the prediction (ensemble) \pause
+	\item[4] Use of noise reduction methods such as scalar quantization andspatial smoothing filter \protect\footnotemark 
 \end{itemize}
 {\small Lot's of research ongoing in this field of Adversarial and ML security.}
 
 \footnotetext{{\tiny https://christophm.github.io/interpretable-ml-book/adversarial.html}}
+\footnotetext{{\tiny B. Liang et al. Detecting Adversarial Examples in Deep Networks with Adaptive Noise Reduction (2017)}}
 \end{frame}
 
 \section{Conclusion}
