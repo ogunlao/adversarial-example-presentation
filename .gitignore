@@ -1,2 +1,11 @@
 .~lock.AE.odt#
 img
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*.tex
+*.gz
+*.toc
+.ipynb_checkpoints
