@@ -9,3 +9,4 @@ img
 *.gz
 *.toc
 .ipynb_checkpoints
+*.odt
